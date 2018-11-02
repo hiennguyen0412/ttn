@@ -1,5 +1,5 @@
 # ttn
-A-Dem so ao
+A-Dem so ao \n
 B-Giay khai sinh
 C-Hop mat
 D-Tro choi ghep chu
